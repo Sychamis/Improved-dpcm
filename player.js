@@ -1,0 +1,1 @@
+t==0?(file="",l=file.length/33*32,s=127):t<l*4?(m=parseInt(file[l+((t-1)>>7)],16),s+=2*m*(parseInt(file[(t-1)>>2],16)>>(t-1)%4&1)-m,min(255,max(0,s))):s
