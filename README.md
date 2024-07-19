@@ -11,6 +11,6 @@ Then go to https://tomeko.net/online_tools/file_to_hex.php, untick the two check
 To create the bytebeat file, copy the code from the player.js file in bytebeat and paste the file the converter created in the file="" string.
 
 
-An example file is also included, it uses a 20 second audio clip of Scarelet by Otis McDonald.
+An example file is also included, it uses a 20 second audio clip of Scarlet Fire by Otis McDonald.
 
-It's meant to be used on https://dollchan.net/bytebeat on bytebeat mode at 44100 Hz.
+It is meant to be used on https://dollchan.net/bytebeat on bytebeat mode at 44100 Hz.
