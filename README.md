@@ -2,8 +2,7 @@
 
 This repo is about an improved version of dpcm compression, where the step size is dynamically changed.
 
-I included the python "audio converter":
-It uses 8 bit audio as a hexadecimal text file.
+The audio converter uses 8 bit audio as a hexadecimal text file.
 
 To convert an audio file into that format without code, you can import your file into audacity, select File -> Export audio,
 Set Format to other uncompressed files, Channels to mono, Header to RAW (header-less) and encoding as unsigned 8-bit PCM
